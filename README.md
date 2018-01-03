@@ -1,3 +1,3 @@
 # CodeCarrot
 
-[![CodeCarrot](//codecarrot.net/images/landing_pages/og72x.jpg)](//www.codecarrot.net/)
+[![CodeCarrot](https://www.codecarrot.net/images/landing_pages/og72x.jpg)](https://www.codecarrot.net/)
